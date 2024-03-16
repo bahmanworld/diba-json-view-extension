@@ -4,7 +4,7 @@
 
 Features:
 
-- Fast Prettify JSON Contents
+- Fast Prettifying JSON Contents
 - Custom JSON Injection
 - Full Settings Support
 - Dark/Light Theme Support 
