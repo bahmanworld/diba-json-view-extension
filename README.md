@@ -1,5 +1,7 @@
 ### JSON View extension for Chrome
 
+![Screenshot](screenshot.png)
+
 #### How to Install:
 1. Download ZIP file
 2. Extract ZIP file
