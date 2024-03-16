@@ -6,9 +6,9 @@ Features:
 
 - Fast Prettifying JSON Contents
 - Custom JSON Injection
-- Full Settings Support
 - Dark/Light Theme Support 
 - Quick ZoomIn/ZoomOut View
+- Full Settings Support
 
 ![Screenshot](screenshot.png)
 
