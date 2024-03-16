@@ -6,4 +6,5 @@
 3. Open chrome and go to `Manage Extensions`
 4. Turn on `Developers mode`
 5. Click `Load unpacked` button
-6. That's all.
+6. Selected extension extracted folder
+7. That's all.
