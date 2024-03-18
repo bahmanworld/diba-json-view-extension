@@ -1,7 +1,7 @@
 ## Diba JSON View
-Prettify JSON extension for Google Chrome
+Prettifying JSON content + Custom JSON Injection
 
-Features:
+## Features:
 
 - Fast Prettifying JSON Contents
 - Custom JSON Injection
@@ -12,7 +12,7 @@ Features:
 
 ![Screenshot](screenshot.png)
 
-#### How to Install:
+## How to Install:
 1. Download ZIP file
 2. Extract ZIP file
 3. Open chrome and go to `Manage Extensions`
