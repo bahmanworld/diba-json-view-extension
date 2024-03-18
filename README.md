@@ -7,7 +7,7 @@ Features:
 - Custom JSON Injection
 - Dark/Light Theme Support 
 - Quick ZoomIn/ZoomOut View
-- Full Settings Support
+- Fully Customizable
 
 ![Screenshot](screenshot.png)
 
