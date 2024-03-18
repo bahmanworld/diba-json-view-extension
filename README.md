@@ -19,4 +19,4 @@ Prettifying JSON content + Custom JSON Injection
 4. Turn on `Developers mode`
 5. Click `Load unpacked` button
 6. Select extracted extension folder
-7. That's all.
+7. That's all, Enjoy!
