@@ -8,6 +8,7 @@ Features:
 - Dark/Light Theme Support 
 - Quick ZoomIn/ZoomOut View
 - Fully Customizable
+- Completely Safe
 
 ![Screenshot](screenshot.png)
 
