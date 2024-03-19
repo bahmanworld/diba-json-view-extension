@@ -1,5 +1,5 @@
 ## Diba JSON View
-Prettifying JSON content + Custom JSON Injection
+JSON View chrome extension + Custom JSON injection
 
 ## Features:
 
