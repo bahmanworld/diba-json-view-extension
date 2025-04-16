@@ -1,8 +1,8 @@
 {
-  "name": "Diba JSON View",
-  "version": "1.0.0",
-  "description": "Prettify JSON for Web Pages Content",
   "manifest_version": 3,
+  "name": "Diba JSON View",
+  "version": "1.2.0",
+  "description": "Prettify JSON for Web Pages Content",
   "author": "Bahman World",
   "icons": {
     "16": "icon.png",
@@ -15,13 +15,11 @@
   "background": {
     "service_worker": "background.js"
   },
-  "action": {
-    "default_popup": ""
-  },
+  "action": {},
   "web_accessible_resources": [
     {
       "matches": ["<all_urls>"],
-      "resources": ["*.png"]
+      "resources": ["icon.png"]
     }
   ],
   "content_scripts": [
