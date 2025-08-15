@@ -1,11 +1,10 @@
 ## Diba JSON View
-JSON View chrome extension
+JSON View Chrome Extension
 
 ## Features:
-
-- Fast Prettifying JSON Contents
+- Prettify JSON Contents
+- Get Data from Custom Endpoint
 - Dark/Light Theme Support 
-- Quick ZoomIn/ZoomOut View
 - Fully Customizable
 - Completely Safe
 
